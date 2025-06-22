@@ -1,16 +1,20 @@
 ## Hi there 👋
 
-<!--
-**cesararnetta/cesararnetta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollador Full-Stack apasionado del código limpio y funcional. Con
+experiencia en JavaScript, Python, React y SQL. Busco entrar en un
+equipo de trabajo, en el cual pueda seguir aprendiendo, mientras
+aporto valor.
 
-Here are some ideas to get you started:
+Tecnologías:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚙️ Diseño UX/UI
+⚛️ React
+💻 JavaScript
+🏷️ HTML5
+🎨 CSS3
+🐍 Python
+🌐 Flask
+🗃️ SQL
+🔑 JWT
+🕑 Git / GitHub
+☁️ Render
