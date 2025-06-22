@@ -1,11 +1,8 @@
 ## Hi there 👋
 
-Desarrollador Full-Stack apasionado del código limpio y funcional. Con
-experiencia en JavaScript, Python, React y SQL. Busco entrar en un
-equipo de trabajo, en el cual pueda seguir aprendiendo, mientras
-aporto valor.
+Full-stack developer passionate about clean, functional code. With experience in JavaScript, Python, React, and SQL. I'm looking to join a team where I can continue learning while adding value.
 
-Tecnologías:
+Technologies:
 
 ⚙️ Diseño UX/UI
 ⚛️ React
