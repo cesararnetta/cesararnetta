@@ -1,7 +1,10 @@
-## Hi there 👋
+## Hi there 👋, I'm César Arnetta!
 
+
+### 🚀 About Me:
 Full-stack developer passionate about clean, functional code. With experience in JavaScript, Python, React, and SQL. I'm looking to join a team where I can continue learning while adding value.Decisive, proactive, and self-taught. Long-term commitment and growth-driven. Motivated by learning and taking on new challenges.
 
+---
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/cesar-eduardo-arnetta/)
 
@@ -19,3 +22,17 @@ Full-stack developer passionate about clean, functional code. With experience in
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap" />
 </div>
 
+---
+
+### 📚 Education:
+- **2025**: Full Stack Developer, **4Geeks Academy**, Spain
+- **2012 - 2017**: Bachelor of Communication Sciences, **Univesidad Católica Andrés Bello**, Caracas, Venezuela
+
+---
+
+### 🌍 Languages:
+- Spanish – Native
+- English – Intermediate
+- Italian – Basic
+
+---
