@@ -1,5 +1,8 @@
-## Hi there 👋, I'm César Arnetta!
+<h2 align="center">Hi there 👋, I'm César Arnetta!</h2>
 
+<p align="center">
+  <img src="Software_developer.png" alt="coding background" width="100%"/>
+</p>
 
 ### 🚀 About Me:
 Full-stack developer passionate about clean, functional code. With experience in JavaScript, Python, React, and SQL. I'm looking to join a team where I can continue learning while adding value.Decisive, proactive, and self-taught. Long-term commitment and growth-driven. Motivated by learning and taking on new challenges.
