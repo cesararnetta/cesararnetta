@@ -5,7 +5,7 @@
 </p>
 
 ### 🚀 About Me:
-Full-stack developer passionate about clean, functional code. With experience in JavaScript, Python, React, and SQL. I'm looking to join a team where I can continue learning while adding value.Decisive, proactive, and self-taught. Long-term commitment and growth-driven. Motivated by learning and taking on new challenges.
+Full-stack developer passionate about clean, functional code. With experience in JavaScript, Python, React, and SQL. Decisive, proactive, and self-taught. Committed and growth-driven. Motivated by learning and taking on new challenges.
 
 ---
 
